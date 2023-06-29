@@ -1,2 +1,2 @@
-# woz
-Iwae! An alternate frontend danksharding KZG summoning ceremony client built using NEAR BOS
+# Nounish KZG (ETHWATERLOO 2023)
+An alternate frontend ethereum KZG summoning ceremony client built on NEAR BOS
